@@ -1,0 +1,15 @@
+C:\Users\Alfon\source\repos\Banderas_Bits\Banderas_Bits\obj\Debug\net10.0\Banderas_Bits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfon\source\repos\Banderas_Bits\Banderas_Bits\obj\Debug\net10.0\Banderas_Bits.AssemblyInfoInputs.cache
+C:\Users\Alfon\source\repos\Banderas_Bits\Banderas_Bits\obj\Debug\net10.0\Banderas_Bits.AssemblyInfo.cs
+C:\Users\Alfon\source\repos\Banderas_Bits\Banderas_Bits\obj\Debug\net10.0\Banderas_Bits.csproj.CoreCompileInputs.cache
+C:\Users\Alfon\source\repos\Banderas_Bits\Banderas_Bits\bin\Debug\net10.0\Banderas_Bits.exe
+C:\Users\Alfon\source\repos\Banderas_Bits\Banderas_Bits\bin\Debug\net10.0\Banderas_Bits.deps.json
+C:\Users\Alfon\source\repos\Banderas_Bits\Banderas_Bits\bin\Debug\net10.0\Banderas_Bits.runtimeconfig.json
+C:\Users\Alfon\source\repos\Banderas_Bits\Banderas_Bits\bin\Debug\net10.0\Banderas_Bits.dll
+C:\Users\Alfon\source\repos\Banderas_Bits\Banderas_Bits\bin\Debug\net10.0\Banderas_Bits.pdb
+C:\Users\Alfon\source\repos\Banderas_Bits\Banderas_Bits\obj\Debug\net10.0\Banderas_Bits.dll
+C:\Users\Alfon\source\repos\Banderas_Bits\Banderas_Bits\obj\Debug\net10.0\refint\Banderas_Bits.dll
+C:\Users\Alfon\source\repos\Banderas_Bits\Banderas_Bits\obj\Debug\net10.0\Banderas_Bits.pdb
+C:\Users\Alfon\source\repos\Banderas_Bits\Banderas_Bits\obj\Debug\net10.0\Banderas_Bits.genruntimeconfig.cache
+C:\Users\Alfon\source\repos\Banderas_Bits\Banderas_Bits\obj\Debug\net10.0\ref\Banderas_Bits.dll
+C:\Users\Alfon\source\repos\Banderas_Bits\Banderas_Bits\obj\Debug\net10.0\Banderas.5479D504.Up2Date
